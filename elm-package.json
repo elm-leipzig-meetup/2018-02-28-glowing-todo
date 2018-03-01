@@ -1,8 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A kata creating a todo list that incorporates a simple animation effect.",
-    "repository": "https://github.com/elm-leipzig-meetup/2018-02-28-glowing-todo
-.git",
+    "repository": "https://github.com/user/project.git",
     "license": "BSD3",
     "source-directories": [
         "."
