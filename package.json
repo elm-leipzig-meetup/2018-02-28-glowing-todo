@@ -1,0 +1,15 @@
+{
+  "name": "message-highlight",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "reactor": "elm reactor -p 8081",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "elm": "^0.18.0"
+  }
+}
